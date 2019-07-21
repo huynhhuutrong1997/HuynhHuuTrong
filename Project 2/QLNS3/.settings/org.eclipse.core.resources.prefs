@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+encoding//src/main/java/Controller/BangLuongController.java=UTF-8
+encoding//src/main/java/Controller/ChietNVController.java=UTF-8
+encoding//src/main/java/Controller/DangKyController.java=UTF-8
+encoding//src/main/java/Controller/DangNhapController.java=UTF-8
+encoding//src/main/java/Controller/DoiMatKhauController.java=UTF-8
+encoding//src/main/java/Controller/ExcelRevenueReportView.java=UTF-8
+encoding//src/main/java/Controller/HopDongHHController.java=UTF-8
+encoding//src/main/java/Controller/ThemCVController.java=UTF-8
+encoding//src/main/java/Controller/ThemHVController.java=UTF-8
+encoding//src/main/java/Controller/ThemHopDongLDController.java=UTF-8
+encoding//src/main/java/Controller/ThemNVController.java=UTF-8
+encoding//src/main/java/Controller/ThemPBController.java=UTF-8
+encoding//src/main/java/Controller/ThemTKController.java=UTF-8
+encoding//src/main/webapp/WEB-INF/views/dangnhap.jsp=UTF-8

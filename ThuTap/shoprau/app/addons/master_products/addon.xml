@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<addon scheme="3.0">
+    <id>master_products</id>
+    <version>1.0</version>
+    <priority>1510</priority>
+    <position>0</position>
+    <status>active</status>
+    <default_language>en</default_language>
+    <compatibility>
+        <dependencies>product_variations</dependencies>
+        <core_edition>
+            MULTIVENDOR
+        </core_edition>
+    </compatibility>
+    <settings edition_type="ROOT">
+        <sections>
+            <section id="general">
+                <items>
+                    <item id="allow_vendors_to_create_products">
+                        <type>checkbox</type>
+                        <default_value>Y</default_value>
+                    </item>
+                </items>
+            </section>
+        </sections>
+    </settings>
+    <functions>
+        <item for="install">fn_master_products_install</item>
+    </functions>
+</addon>

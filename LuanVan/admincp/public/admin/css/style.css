@@ -1,0 +1,41 @@
+.dropdown-user {
+    right: 0;
+    left: auto;
+    line-height: 40px;
+}
+.user {
+    display: block;
+    padding: 0.5rem 0rem;
+}
+.user>a:hover , li>a:focus {
+    text-decoration: none;
+    color: #fff;
+}
+.user>a {
+    color: #999;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 3px 20px;
+    min-height: 0;
+}
+.dropdown-menu .divider {
+    height: 1px;
+    margin: 9px 0;
+    overflow: hidden;
+    background-color: #e5e5e5;
+}
+.icon-dropdown {
+    padding: 10px;
+}
+.icon-dropdown:hover {
+    background: #e5e5e5;
+}
+.icon-dropdown a {
+    color: #999;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 3px 20px;
+    min-height: 0;
+}
+.icon-dropdown a:hover {
+    text-decoration: none;
+
+}

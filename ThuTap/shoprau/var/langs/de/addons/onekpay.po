@@ -1,0 +1,38 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: cs-cart-latest\n"
+"X-Crowdin-Language: de\n"
+"X-Crowdin-File: /release-4.9.1/addons/onekpay.po\n"
+"Last-Translator: cscart <translations@cs-cart.com>\n"
+"PO-Revision-Date: 2018-10-10 12:30\n"
+
+msgctxt "Addons::name::onekpay"
+msgid "OneKPay payments"
+msgstr "OneKPay Zahlungen"
+
+msgctxt "Addons::description::onekpay"
+msgid "Lets you accept payments via OneKPay."
+msgstr "Ermöglicht die Annahme von Zahlungen über OneKPay."
+
+msgctxt "Languages::onekpay.merchant_number"
+msgid "Merchant ID"
+msgstr "Händler-ID"
+
+msgctxt "Languages::onekpay.terminal_number"
+msgid "Terminal ID"
+msgstr "Terminal ID"
+
+msgctxt "Languages::onekpay.secure_hash"
+msgid "Secure hash"
+msgstr "Sicherer Hash"
+
+msgctxt "Languages::onekpay.payment_failed"
+msgid "Payment failed."
+msgstr "Die Zahlung ist fehlgeschlagen."
+

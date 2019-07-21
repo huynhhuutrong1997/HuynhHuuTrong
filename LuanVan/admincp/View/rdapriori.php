@@ -1,0 +1,113 @@
+<meta charset="utf-8">
+<script type="text/javascript" src="AprioriJS/jquery/jquery-1.7.2.min.js"></script>
+<script type="text/javascript" src="AprioriJS/Itemset.js"></script>
+<script type="text/javascript" src="AprioriJS/ItemsetCollection.js"></script>
+<script type="text/javascript" src="AprioriJS/AssociationRule.js"></script>
+<script type="text/javascript" src="AprioriJS/Bit.js"></script>
+<script type="text/javascript" src="AprioriJS/AprioriMining.js"></script>
+<script type="text/javascript" src="AprioriJS/Apriori.js"></script>
+<style>
+    body {
+        font-family: Verdana;
+        font-size: 12px;
+        background: cyan;
+    }
+
+    input[type=text], input[type=number] {
+        font-size: 13px;
+        height: 28px;
+        border: 1px solid #b0b0b0;
+    }
+
+    button {
+        font-size: 13px;
+        height: 28px;
+        cursor: pointer;
+    }
+
+    textarea {
+        font-size: 13px;
+        border: 1px solid #b0b0b0;
+    }
+
+    #AprioriContainer {
+        width: 800px;
+        height: 800px;
+        border: 1px solid #b0b0b0;
+        padding: 12px;
+        padding-left: 16px;
+        margin: auto;
+        background-color: azure;
+    }
+
+    #AprioriTable tr {
+        height: 40px;
+    }
+
+    #AprioriTable tr td:nth-child(1) {
+        width: 120px;
+    }
+</style>
+
+<div id="wrapper">
+<?php include"../menu.php"; ?>
+    <div id="content-wrapper">
+        <div class="container-fluid">
+          <h1>Test Random Apriori</h1>
+          <hr>
+        </div>
+        <div class="container-fluid">
+          <h1 style="text-align: center;">Sinh Luật Kết Hợp</h1>
+    <div id="AprioriContainer">
+        <table id="AprioriTable" cellpadding="0" cellspacing="0" border="0">
+            <tr>
+                <td>Enter Items:</td>
+                <td><input type="text" id="ItemsTextBox" value="Iphone 5S, Laptop, Tai nghe, Loa không dây, Thẻ Cào Vinaphone, Chuột không dây" style="width: 680px;" /></td>
+            </tr>
+            <tr>
+                <td>Transactions:</td>
+                <td>
+                    <input type="number" id="TransCountTextBox" value="5" style="width: 80px;" />&nbsp;&nbsp;
+                    <button id="GenerateDBButton" style="width: 100px;">Generate DB</button>&nbsp;&nbsp;
+                    <button id="ResetDBButton" style="width: 100px;">Reset DB</button>&nbsp;&nbsp;
+                </td>
+            </tr>
+            <tr style="height: 10px;">
+                <td></td>
+            </tr>
+            <tr>
+                <td colspan="2">
+                    <textarea id="DBTextBox" cols="73" style="height: 250px;width: 800px;" readonly="readonly"></textarea>
+                </td>
+            </tr>
+            <tr style="height: 10px;">
+                <td></td>
+            </tr>
+            <tr>
+                <td colspan="2">
+                    Support Threshold (%):&nbsp;&nbsp;
+                    <input type="number" id="SupportThresholdTextBox" value="40.00" style="width: 80px;" />
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2">
+                    Confidence Threshold (%):&nbsp;&nbsp;
+                    <input type="number" id="ConfidenceThresholdTextBox" value="70.00" style="width: 80px;" />&nbsp;&nbsp;
+                    <button id="AprioriButton" style="width: 100px;">Apriori</button>
+                </td>
+            </tr>
+            <tr style="height: 10px;">
+                <td></td>
+            </tr>
+            <tr>
+                <td colspan="2">
+                    <textarea id="ResultTextBox" cols="73" style="height: 300px;width: 800px;" readonly="readonly"></textarea>
+                </td>
+            </tr>
+        </table>
+    </div>
+        </div>
+    </div>
+</div>
+<?php include"../include-bot.php";?>
+

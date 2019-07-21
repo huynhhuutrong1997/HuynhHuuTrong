@@ -1,0 +1,65 @@
+a:2:{s:4:"data";a:1:{s:7:"content";s:3109:"    <div class=" top-menu">
+        
+
+
+    <ul class="ty-menu__items cm-responsive-menu">
+        
+            <li class="ty-menu__item ty-menu__menu-btn visible-phone">
+                <a class="ty-menu__item-link">
+                    <i class="ty-icon-short-list"></i>
+                    <span>Menu</span>
+                </a>
+            </li>
+
+                                            
+                        <li class="ty-menu__item ty-menu__item-nodrop">
+                                        <a  href="http://localhost/test/" class="ty-menu__item-link" >
+                        Trang chủ
+                    </a>
+                            </li>
+                                            
+                        <li class="ty-menu__item cm-menu-item-responsive">
+                                            <a class="ty-menu__item-toggle visible-phone cm-responsive-menu-toggle">
+                            <i class="ty-menu__icon-open ty-icon-down-open"></i>
+                            <i class="ty-menu__icon-hide ty-icon-up-open"></i>
+                        </a>
+                                        <a  class="ty-menu__item-link" >
+                         Nhóm sản phẩm
+                    </a>
+                
+                                        
+                        <div class="ty-menu__submenu">
+                            <ul class="ty-menu__submenu-items ty-menu__submenu-items-simple cm-responsive-menu-submenu">
+                                
+
+                                                                                                        <li class="ty-menu__submenu-item">
+                                        <a class="ty-menu__submenu-link"  href="http://localhost/shoprau/nhom-sn-phm/rau/" >Rau</a>
+                                    </li>
+                                                                                                        <li class="ty-menu__submenu-item">
+                                        <a class="ty-menu__submenu-link"  href="http://localhost/shoprau/nhom-sn-phm/c-qu/" >Củ Quả</a>
+                                    </li>
+                                                                                                        <li class="ty-menu__submenu-item">
+                                        <a class="ty-menu__submenu-link"  href="http://localhost/shoprau/nhom-sn-phm/trai-cay/" >Trái Cây</a>
+                                    </li>
+                                                                
+                                
+
+                            </ul>
+                        </div>
+                    
+                            </li>
+                                            
+                        <li class="ty-menu__item ty-menu__item-nodrop ty-menu-item__sale">
+                                        <a  href="http://localhost/shoprau/index.php?dispatch=products.on_sale" class="ty-menu__item-link" >
+                        Sản phẩm khuyến mãi
+                    </a>
+                            </li>
+        
+        
+
+    </ul>
+
+
+
+    </div>
+";}s:6:"expiry";i:0;}

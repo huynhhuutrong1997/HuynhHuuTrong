@@ -1,0 +1,29 @@
+msgid ""
+msgstr "Project-Id-Version: tygh\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::onekpay"
+msgid "OneKPay payments"
+msgstr "OneKPay payments"
+
+msgctxt "Addons::description::onekpay"
+msgid "Lets you accept payments via OneKPay."
+msgstr "Lets you accept payments via OneKPay."
+
+msgctxt "Languages::onekpay.merchant_number"
+msgid "Merchant ID"
+msgstr "Merchant ID"
+
+msgctxt "Languages::onekpay.terminal_number"
+msgid "Terminal ID"
+msgstr "Terminal ID"
+
+msgctxt "Languages::onekpay.secure_hash"
+msgid "Secure hash"
+msgstr "Secure hash"
+
+msgctxt "Languages::onekpay.payment_failed"
+msgid "Payment failed."
+msgstr "Payment failed."

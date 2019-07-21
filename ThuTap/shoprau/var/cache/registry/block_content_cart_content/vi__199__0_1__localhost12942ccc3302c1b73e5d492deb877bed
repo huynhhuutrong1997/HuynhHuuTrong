@@ -1,0 +1,43 @@
+a:2:{s:4:"data";a:1:{s:7:"content";s:1921:"    <div class=" top-cart-content">
+        
+    <div class="ty-dropdown-box" id="cart_status_158">
+        <div id="sw_dropdown_158" class="ty-dropdown-box__title cm-combination">
+        <a href="http://localhost/shoprau/cart/">
+            
+            <i class="ty-minicart__icon ty-icon-moon-commerce empty"></i>
+            <span class="ty-minicart-title empty-cart ty-hand">
+                <span class="ty-block ty-minicart-title__header ty-uppercase">Giỏ hàng của tôi</span>
+                <span class="ty-block">
+                                    Giỏ hàng trống
+                                </span>
+            </span>
+            
+
+        </a>
+        </div>
+        <div id="dropdown_158" class="cm-popup-box ty-dropdown-box__content hidden">
+            
+                <div class="cm-cart-content cm-cart-content-thumb cm-cart-content-delete">
+                        <div class="ty-cart-items">
+                                                            <div class="ty-cart-items__empty ty-center">Giỏ hàng trống</div>
+                                                    </div>
+
+                                                <div class="cm-cart-buttons ty-cart-content__buttons buttons-container hidden">
+                            <div class="ty-float-left">
+                                <a href="http://localhost/shoprau/cart/" rel="nofollow" class="ty-btn ty-btn__secondary">Xem giỏ hàng</a>
+                            </div>
+                                                        <div class="ty-float-right">
+                                <a href="http://localhost/shoprau/checkout/" rel="nofollow" class="ty-btn ty-btn__primary">Thanh toán</a>
+                            </div>
+                                                    </div>
+                        
+                </div>
+            
+
+        </div>
+    <!--cart_status_158--></div>
+
+
+
+    </div>
+";}s:6:"expiry";i:0;}

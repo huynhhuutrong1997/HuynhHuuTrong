@@ -1,0 +1,123 @@
+/*thêm sản phẩm*/
+.anh{
+  border: solid 1px #9999994f;
+  margin: 5px 100px 5px 150px;
+  height: 200px;
+}
+.anh > div{
+  float: left;
+  margin: 20px 0px 0px 170px;
+
+}
+.uploadanh a:hover{
+  text-decoration: none;
+}
+.Choicefile
+  {
+   display:block;
+   background:#0877D8;
+   border:1px solid #fff;
+   color:#fff;
+   width:100px;
+   text-align:center;
+   text-decoration:none;
+   cursor:pointer;
+   padding:5px 0px;
+   }
+   #uploadfile,.removeimg
+   {
+    display:none;
+   }
+   #thumbbox
+   {
+    position:relative;
+    width:100px;
+   }
+   .removeimg
+   {
+   background:  url("http://png-3.findicons.com/files/icons/2181/34al_volume_3_2_se/24/001_05.png")  repeat scroll 0 0 transparent;
+   height: 24px;
+   position: absolute;
+   right: 5px;
+   top: 5px;
+   width: 24px;
+  
+   }
+/*ảnh 2*/
+ .Choicefile2
+  {
+   display:block;
+   background:#0877D8;
+   border:1px solid #fff;
+   color:#fff;
+   width:100px;
+   text-align:center;
+   text-decoration:none;
+   cursor:pointer;
+   padding:5px 0px;
+   }
+   #uploadfile2,.removeimg2
+   {
+    display:none;
+   }
+   #thumbbox2
+   {
+    position:relative;
+    width:100px;
+   }
+   .removeimg2
+   {
+   background:  url("http://png-3.findicons.com/files/icons/2181/34al_volume_3_2_se/24/001_05.png")  repeat scroll 0 0 transparent;
+   height: 24px;
+   position: absolute;
+   right: 5px;
+   top: 5px;
+   width: 24px;
+  
+   }
+
+   /*Ảnh 3*/
+   .Choicefile3 {
+   display:block;
+   background:#0877D8;
+   border:1px solid #fff;
+   color:#fff;
+   width:100px;
+   text-align:center;
+   text-decoration:none;
+   cursor:pointer;
+   padding:5px 0px;
+   }
+#uploadfile3,.removeimg3 {
+    display:none;
+   }
+#thumbbox3{
+    position:relative;
+    width:100px;
+   }
+.removeimg3
+   {
+   background:  url("http://png-3.findicons.com/files/icons/2181/34al_volume_3_2_se/24/001_05.png")  repeat scroll 0 0 transparent;
+   height: 24px;
+   position: absolute;
+   right: 5px;
+   top: 5px;
+   width: 24px;
+  
+   }
+
+   /*account*/
+.avatar_account {
+  margin: 100px 0px 0px 70px;
+}
+.avatar_account a:hover{
+  text-decoration:none;
+}
+.thongbaoanh{
+  margin: 5px 100px 5px 150px;
+
+}
+.thongbao1{
+  padding: 10px;
+  
+}

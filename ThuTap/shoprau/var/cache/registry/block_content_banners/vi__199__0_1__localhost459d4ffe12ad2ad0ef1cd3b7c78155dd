@@ -1,0 +1,31 @@
+a:2:{s:4:"data";a:2:{s:10:"javascript";s:601:"<script type="text/javascript">
+(function(_, $) {
+    $.ceEvent('on', 'ce.commoninit', function(context) {
+        var slider = context.find('#banner_slider_247');
+        if (slider.length) {
+            slider.owlCarousel({
+                direction: 'ltr',
+                items: 1,
+                singleItem : true,
+                slideSpeed: 400,
+                autoPlay: '3000',
+                stopOnHover: true,
+                                                    pagination: true
+                                                            });
+        }
+    });
+}(Tygh, Tygh.$));
+</script>";s:7:"content";s:819:"        
+    <div id="banner_slider_247" class="banners owl-carousel">
+                    <div class="ty-banner__image-item">
+                                                            <img class="ty-pict  ty-banner__image   cm-image" id="det_img_588211180"  src="http://localhost/shoprau/images/promo/8/tumblr_myxywlHbhL1ry6151o1_500.gif" alt="" title=""  />
+
+                                                </div>
+                    <div class="ty-banner__image-item">
+                                                            <img class="ty-pict  ty-banner__image   cm-image" id="det_img_1758790003"  src="http://localhost/shoprau/images/promo/8/feelgood.gif" alt="" title=""  />
+
+                                                </div>
+            </div>
+
+<!-- Inline script moved to the bottom of the page -->
+";}s:6:"expiry";i:0;}

@@ -1,0 +1,42 @@
+a:2:{s:4:"data";a:2:{s:10:"javascript";s:646:"<script type="text/javascript">
+(function(_, $) {
+    $.ceEvent('on', 'ce.commoninit', function(context) {
+        var slider = context.find('#banner_slider_170');
+        if (slider.length) {
+            slider.owlCarousel({
+                direction: 'ltr',
+                items: 1,
+                singleItem : true,
+                slideSpeed: 400,
+                autoPlay: '5000',
+                stopOnHover: true,
+                                                                    pagination: true,
+                    paginationNumbers: true
+                                            });
+        }
+    });
+}(Tygh, Tygh.$));
+</script>";s:7:"content";s:1491:"    <div class=" homepage-banners">
+        
+    <div id="banner_slider_170" class="banners owl-carousel">
+                    <div class="ty-banner__image-item">
+                                                            <img class="ty-pict  ty-banner__image   cm-image" id="det_img_1356734114"  src="http://localhost/shoprau/images/promo/8/DQ_XHacXcAAcT2h.jpg" alt="" title=""  />
+
+                                                </div>
+                    <div class="ty-banner__image-item">
+                                                            <img class="ty-pict  ty-banner__image   cm-image" id="det_img_448746580"  src="http://localhost/shoprau/images/promo/8/slider2.png" alt="" title=""  />
+
+                                                </div>
+                    <div class="ty-banner__image-item">
+                                                            <img class="ty-pict  ty-banner__image   cm-image" id="det_img_287381699"  src="http://localhost/shoprau/images/promo/8/so3.jpg" alt="" title=""  />
+
+                                                </div>
+                    <div class="ty-banner__image-item">
+                                                            <img class="ty-pict  ty-banner__image   cm-image" id="det_img_2023888501"  src="http://localhost/shoprau/images/promo/8/so4.jpg" alt="" title=""  />
+
+                                                </div>
+            </div>
+
+<!-- Inline script moved to the bottom of the page -->
+    </div>
+";}s:6:"expiry";i:0;}

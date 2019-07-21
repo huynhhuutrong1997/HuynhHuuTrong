@@ -1,0 +1,27 @@
+a:2:{s:4:"data";a:2:{s:10:"javascript";s:601:"<script type="text/javascript">
+(function(_, $) {
+    $.ceEvent('on', 'ce.commoninit', function(context) {
+        var slider = context.find('#banner_slider_248');
+        if (slider.length) {
+            slider.owlCarousel({
+                direction: 'ltr',
+                items: 1,
+                singleItem : true,
+                slideSpeed: 400,
+                autoPlay: '3000',
+                stopOnHover: true,
+                                                    pagination: true
+                                                            });
+        }
+    });
+}(Tygh, Tygh.$));
+</script>";s:7:"content";s:496:"        
+    <div id="banner_slider_248" class="banners owl-carousel">
+                    <div class="ty-banner__image-item">
+                                                            <img class="ty-pict  ty-banner__image   cm-image" id="det_img_2028966734"  src="http://localhost/shoprau/images/promo/8/3b63aa0fa3bd4f3a32bbad5d9f2536a8.gif" alt="" title=""  />
+
+                                                </div>
+            </div>
+
+<!-- Inline script moved to the bottom of the page -->
+";}s:6:"expiry";i:0;}

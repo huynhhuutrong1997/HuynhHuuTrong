@@ -1,0 +1,57 @@
+.shopnew_content{
+	height: 500px;
+	background: #dad9d9;
+}
+.shopnew_content h1{
+	font-weight: bold;
+	font-size: 20px;
+	text-align: center;
+	padding-top: 15px;
+}
+.shopnew_inf{
+
+	height: 300px;
+	margin: 0px 60px 0px 60px;
+	background: #fff;
+}
+.shopnew_div{
+	text-align: center;
+	padding-top: 50px;
+}
+.shopnew_div input[type="text"]{
+	font-size:0.95em;
+	padding: 8px;
+	border:none;
+	box-shadow:0 0 2px #aaa;
+	-webkit-box-shadow:0 0 2px #aaa;
+	-moz-box-shadow:0 0 2px #aaa;
+	-o-box-shadow:0 0 2px #aaa;
+	color:#777;
+	width: 300px;
+}
+.shopnew_div textarea{
+	font-size:0.95em;
+	padding: 5px;
+	border:none;
+	box-shadow:0 0 2px #aaa;
+	-webkit-box-shadow:0 0 2px #aaa;
+	-moz-box-shadow:0 0 2px #aaa;
+	-o-box-shadow:0 0 2px #aaa;
+	color:#777;
+	width: 300px;
+}
+.btn_shopnew{
+	padding-left: 550px;
+
+	margin-top: 50px;
+
+}
+.btn_shopnew button{
+	height: 40px;
+    padding: 0 20px;
+    min-width: 70px;
+    max-width: 100px;
+	color: #fff;
+    background: #ee4d2d;
+    border: solid 1px;
+}

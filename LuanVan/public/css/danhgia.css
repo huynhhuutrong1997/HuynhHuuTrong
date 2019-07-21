@@ -1,0 +1,125 @@
+.quaylai_danhgia {
+  padding: 15px 0px 0px 20px;
+  
+}
+.quaylai_danhgia a:hover{
+  text-decoration: none;
+}
+/*Sản phẩm*/
+div.stars {
+  width: 270px;
+  display: inline-block;
+}
+ 
+input.star { display: none; }
+ 
+label.star {
+  float: right;
+  padding: 10px;
+  font-size: 30px;
+  color: #444;
+  transition: all .2s;
+}
+ 
+input.star:checked ~ label.star:before {
+  content: '\f005';
+  color: #FD4;
+  transition: all .25s;
+}
+ 
+input.star-5:checked ~ label.star:before {
+  color: #FE7;
+ /* text-shadow: 0 0 20px #952;*/
+}
+ 
+input.star-1:checked ~ label.star:before { color: #F62; }
+ 
+label.star:hover { transform: rotate(-15deg) scale(1.3); }
+ 
+label.star:before {
+  content: '\f006';
+  font-family: FontAwesome;
+}
+.danhgia_sanpham{
+  
+}
+.danhgia_sanpham h2{
+  text-align: center;
+  padding: 10px;
+  font-size: 20px;
+  font-weight: bold;
+}
+.stars{
+  margin: 30px 0px 5px 520px;
+}
+.input_danhgiasp{
+  margin: 20px 0px 10px 565px;
+
+}
+.input_danhgiasp textarea{
+   padding: 5px 0px 0px 5px;
+}
+/*đánh giá shop*/
+div.star_shop {
+  width: 270px;
+  display: inline-block;
+}
+ 
+input.stars_shop { display: none; }
+ 
+label.stars_shop {
+  float: right;
+  padding: 10px;
+  font-size: 30px;
+  color: #444;
+  transition: all .2s;
+}
+ 
+input.stars_shop:checked ~ label.stars_shop:before {
+  content: '\f005';
+  color: #FD4;
+  transition: all .25s;
+}
+ 
+input.stars_shop-5:checked ~ label.stars_shop:before {
+  color: #FE7;
+  /*text-shadow: 0 0 20px #952;*/
+}
+ 
+input.stars_shop-1:checked ~ label.stars_shop:before { color: #F62; }
+ 
+label.stars_shop:hover { transform: rotate(-15deg) scale(1.3); }
+ 
+label.stars_shop:before {
+  content: '\f006';
+  font-family: FontAwesome;
+}
+.star_shop{
+  margin: 30px 0px 10px 520px;
+}
+.danhgia_shop{
+
+}
+.danhgia_shop h2{
+  text-align: center;
+  padding: 10px;
+  font-size: 20px;
+  font-weight: bold;
+}
+.btn_danhgia{
+  margin: 30px 0px 30px 635px;
+}
+.btn_danhgia button{
+  background: #ffb916;
+  border: solid 1px #9999994f;
+  height: 35px;
+  font-weight: bold;
+}
+.hinhsanpham p{
+  text-align: center;
+}
+.hinhsanpham img{
+  width: 100px;
+  height: 100px;
+  margin-left: 62rem;
+}

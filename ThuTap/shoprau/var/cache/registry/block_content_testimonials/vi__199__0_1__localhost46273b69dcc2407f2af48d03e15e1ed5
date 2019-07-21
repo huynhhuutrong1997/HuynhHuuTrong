@@ -1,0 +1,76 @@
+a:2:{s:4:"data";a:1:{s:7:"content";s:2674:"    <div class="ty-mainbox-container clearfix homepage-reviews">
+                    
+                <h1 class="ty-mainbox-title">
+                    
+                                            Đánh Giá
+                                        
+
+                </h1>
+            
+
+                <div class="ty-mainbox-body">
+
+
+    <div class="ty-discussion-post__content">
+        
+        <span class="ty-discussion-post__author">Marty McFly</span>
+        <span class="ty-discussion-post__date">12/01/2017, 14:24</span>
+        <div class="ty-discussion-post " id="post_120">
+            <span class="ty-caret"> <span class="ty-caret-outer"></span> <span class="ty-caret-inner"></span></span>
+
+                            <div class="clearfix ty-discussion-post__rating">
+                    <span class="ty-nowrap ty-stars">
+    
+            <i class="ty-stars__icon ty-icon-star"></i>
+            <i class="ty-stars__icon ty-icon-star"></i>
+            <i class="ty-stars__icon ty-icon-star"></i>
+            <i class="ty-stars__icon ty-icon-star"></i>
+            <i class="ty-stars__icon ty-icon-star"></i>
+    
+    
+    
+    </span>
+
+                </div>
+            
+                            <div class="ty-discussion-post__message">The hoverboard I ordered was just awesome. Thank you so much!</div>
+            
+        </div>
+        
+
+    </div>
+    <div class="ty-discussion-post__content">
+        
+        <span class="ty-discussion-post__author">Sheldon Cooper</span>
+        <span class="ty-discussion-post__date">28/10/2016, 14:31</span>
+        <div class="ty-discussion-post  ty-discussion-post_even" id="post_123">
+            <span class="ty-caret"> <span class="ty-caret-outer"></span> <span class="ty-caret-inner"></span></span>
+
+                            <div class="clearfix ty-discussion-post__rating">
+                    <span class="ty-nowrap ty-stars">
+    
+            <i class="ty-stars__icon ty-icon-star"></i>
+            <i class="ty-stars__icon ty-icon-star"></i>
+    
+    
+            <i class="ty-stars__icon ty-icon-star-empty"></i>
+            <i class="ty-stars__icon ty-icon-star-empty"></i>
+            <i class="ty-stars__icon ty-icon-star-empty"></i>
+    
+    </span>
+
+                </div>
+            
+                            <div class="ty-discussion-post__message">My parcel was damaged. Oh! There isn’t enough camomile tea in the world to quell the rage in my heart.</div>
+            
+        </div>
+        
+
+    </div>
+
+<div class="ty-mtb-s ty-left ty-uppercase">
+    <a href="http://localhost/shoprau/index.php?dispatch=discussion.view&amp;thread_id=1">xem tất cả</a>
+</div>
+</div>
+    </div>
+";}s:6:"expiry";i:0;}

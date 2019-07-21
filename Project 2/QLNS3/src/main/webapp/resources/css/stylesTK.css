@@ -1,0 +1,12 @@
+#header1{
+	background-image: url(background-header.jpg);
+	height: 50px;
+	padding-top:1px;
+}
+#header1 h3{
+	text-align: center;
+	line-height:10px;
+}
+.panel-body {
+	display: none;
+}

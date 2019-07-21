@@ -1,0 +1,1043 @@
+a:2:{s:4:"data";a:2:{s:10:"javascript";s:1916:"<script type="text/javascript" src="http://localhost/shoprau/js/tygh/product_image_gallery.js?ver=4.9.1" ></script><script type="text/javascript" src="http://localhost/shoprau/js/lib/owlcarousel/owl.carousel.min.js?ver=4.9.1" ></script><script type="text/javascript">
+(function(_, $) {
+    $.ceEvent('on', 'ce.commoninit', function(context) {
+        var elm = context.find('#scroll_list_82');
+
+        $('.ty-float-left:contains(.ty-scroller-list),.ty-float-right:contains(.ty-scroller-list)').css('width', '100%');
+
+        var item = 5,
+            // default setting of carousel
+            itemsDesktop = 4,
+            itemsDesktopSmall = 3;
+            itemsTablet = 2;
+
+        if (item > 3) {
+            itemsDesktop = item;
+            itemsDesktopSmall = item - 1;
+            itemsTablet = item - 2;
+        } else if (item == 1) {
+            itemsDesktop = itemsDesktopSmall = itemsTablet = 1;
+        } else {
+            itemsDesktop = item;
+            itemsDesktopSmall = itemsTablet = item - 1;
+        }
+
+        var desktop = [1199, itemsDesktop],
+            desktopSmall = [979, itemsDesktopSmall],
+            tablet = [768, itemsTablet],
+            mobile = [479, 1];
+
+        
+        if (elm.length) {
+            elm.owlCarousel({
+                direction: 'ltr',
+                items: item,
+                itemsDesktop: desktop,
+                itemsDesktopSmall: desktopSmall,
+                itemsTablet: tablet,
+                itemsMobile: mobile,
+                                                autoPlay: '3000',
+                                lazyLoad: true,
+                slideSpeed: 400,
+                stopOnHover: true,
+                                navigation: true,
+                navigationText: ['Trước', 'Tiếp theo'],
+                                pagination: false,
+                        });
+            
+        }
+    });
+}(Tygh, Tygh.$));
+</script>";s:7:"content";s:30677:"    <div class="ty-mainbox-container clearfix homepage-hotdeals">
+                    
+                <h1 class="ty-mainbox-title">
+                    
+                                            Sản phẩm bán chạy
+                                        
+
+                </h1>
+            
+
+                <div class="ty-mainbox-body">
+
+        
+
+
+<!-- Inline script moved to the bottom of the page -->
+
+
+<div id="scroll_list_82" class="owl-carousel ty-scroller-list grid-list ty-scroller-advanced">
+            
+        <div class="ty-scroller-list__item">
+                                                                
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                <div class="ty-grid-list__item ty-quick-view-button__wrapper ty-left">
+                                        <form action="http://localhost/shoprau/" method="post" name="product_form_820005776" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php" />
+<input type="hidden" name="product_data[5776][product_id]" value="5776" />
+
+
+                    <div class="ty-grid-list__image">
+                                                            <span class="ty-discount-label cm-reload-820005776" id="discount_label_update_820005776">
+            <span class="ty-discount-label__item" id="line_prc_discount_value_820005776"><span class="ty-discount-label__value" id="prc_discount_value_label_820005776">Giảm 13%</span></span>
+        <!--discount_label_update_820005776--></span>
+    
+
+                        
+
+
+        <a href="http://localhost/shoprau/nhom-sn-phm/trai-cay/tao/">
+        <img class="ty-pict     cm-image" id="det_img_820005776"  src="http://localhost/shoprau/images/thumbnails/150/150/detailed/8/tao.jpg" alt="" title=""  />
+
+    </a>
+
+
+                    </div>
+
+                    <div class="ty-grid-list__item-name">
+                        
+                                                <bdi>
+            <a href="http://localhost/shoprau/nhom-sn-phm/trai-cay/tao/" class="product-title" title="Táo" >Táo</a>    
+
+</bdi>
+                    </div>
+
+                                            <div class="ty-grid-list__price ">
+                                                                    <span class="cm-reload-820005776" id="old_price_update_820005776">
+            
+                            <span class="ty-list-price ty-nowrap" id="line_list_price_820005776"><span class="ty-strike"><bdi><span id="sec_list_price_820005776" class="ty-list-price ty-nowrap">40,000</span>&nbsp;<span class="ty-list-price ty-nowrap">VND</span></bdi></span></span>
+                        
+
+        <!--old_price_update_820005776--></span>
+    
+                                                            <span class="cm-reload-820005776 ty-price-update" id="price_update_820005776">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_820005776"><bdi><span id="sec_discounted_price_820005776" class="ty-price-num">35,000</span>&nbsp;<span class="ty-price-num">VND</span></bdi></span>
+                            
+
+                        <!--price_update_820005776--></span>
+
+
+                                                            
+
+                                                            
+                        </div>
+                    
+                                                                <div class="grid-list__rating">
+                                
+    
+
+    
+
+
+                        </div>
+                    
+                    <div class="ty-grid-list__control">
+                        
+                                            </div>
+
+                                        <input type="hidden" name="security_hash" class="cm-no-hide-input" value="3fdac7206dfa816deadc9939a5f825f1" /></form>
+
+                </div>
+                    </div>
+        
+
+            
+        <div class="ty-scroller-list__item">
+                                                                
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                <div class="ty-grid-list__item ty-quick-view-button__wrapper ty-left">
+                                        <form action="http://localhost/shoprau/" method="post" name="product_form_820005775" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php" />
+<input type="hidden" name="product_data[5775][product_id]" value="5775" />
+
+
+                    <div class="ty-grid-list__image">
+                                                            <span class="ty-discount-label cm-reload-820005775" id="discount_label_update_820005775">
+            <span class="ty-discount-label__item" id="line_prc_discount_value_820005775"><span class="ty-discount-label__value" id="prc_discount_value_label_820005775">Giảm 5%</span></span>
+        <!--discount_label_update_820005775--></span>
+    
+
+                        
+
+
+        <a href="http://localhost/shoprau/nhom-sn-phm/rau/rau-mung/">
+        <img class="ty-pict     cm-image" id="det_img_820005775"  src="http://localhost/shoprau/images/thumbnails/150/150/detailed/8/raumuong.jpg" alt="" title=""  />
+
+    </a>
+
+
+                    </div>
+
+                    <div class="ty-grid-list__item-name">
+                        
+                                                <bdi>
+            <a href="http://localhost/shoprau/nhom-sn-phm/rau/rau-mung/" class="product-title" title="Rau muống" >Rau muống</a>    
+
+</bdi>
+                    </div>
+
+                                            <div class="ty-grid-list__price ">
+                                                                    <span class="cm-reload-820005775" id="old_price_update_820005775">
+            
+                            <span class="ty-list-price ty-nowrap" id="line_list_price_820005775"><span class="ty-strike"><bdi><span id="sec_list_price_820005775" class="ty-list-price ty-nowrap">21,000</span>&nbsp;<span class="ty-list-price ty-nowrap">VND</span></bdi></span></span>
+                        
+
+        <!--old_price_update_820005775--></span>
+    
+                                                            <span class="cm-reload-820005775 ty-price-update" id="price_update_820005775">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_820005775"><bdi><span id="sec_discounted_price_820005775" class="ty-price-num">20,000</span>&nbsp;<span class="ty-price-num">VND</span></bdi></span>
+                            
+
+                        <!--price_update_820005775--></span>
+
+
+                                                            
+
+                                                            
+                        </div>
+                    
+                                                                <div class="grid-list__rating">
+                                
+    
+
+    
+
+
+                        </div>
+                    
+                    <div class="ty-grid-list__control">
+                        
+                                            </div>
+
+                                        <input type="hidden" name="security_hash" class="cm-no-hide-input" value="3fdac7206dfa816deadc9939a5f825f1" /></form>
+
+                </div>
+                    </div>
+        
+
+            
+        <div class="ty-scroller-list__item">
+                                                                
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                <div class="ty-grid-list__item ty-quick-view-button__wrapper ty-left">
+                                        <form action="http://localhost/shoprau/" method="post" name="product_form_820005774" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php" />
+<input type="hidden" name="product_data[5774][product_id]" value="5774" />
+
+
+                    <div class="ty-grid-list__image">
+                                                    
+
+                        
+
+
+        <a href="http://localhost/shoprau/nhom-sn-phm/rau/rau-cn/">
+        <img class="ty-pict     cm-image" id="det_img_820005774"  src="http://localhost/shoprau/images/thumbnails/150/150/detailed/8/raucan.jpg" alt="" title=""  />
+
+    </a>
+
+
+                    </div>
+
+                    <div class="ty-grid-list__item-name">
+                        
+                                                <bdi>
+            <a href="http://localhost/shoprau/nhom-sn-phm/rau/rau-cn/" class="product-title" title="Rau cần" >Rau cần</a>    
+
+</bdi>
+                    </div>
+
+                                            <div class="ty-grid-list__price ">
+                                                                    <span class="cm-reload-820005774" id="old_price_update_820005774">
+            
+                        
+
+        <!--old_price_update_820005774--></span>
+    
+                                                            <span class="cm-reload-820005774 ty-price-update" id="price_update_820005774">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_820005774"><bdi><span id="sec_discounted_price_820005774" class="ty-price-num">15,000</span>&nbsp;<span class="ty-price-num">VND</span></bdi></span>
+                            
+
+                        <!--price_update_820005774--></span>
+
+
+                                                            
+
+                                                            
+                        </div>
+                    
+                                                                <div class="grid-list__rating">
+                                
+    
+
+    
+
+
+                        </div>
+                    
+                    <div class="ty-grid-list__control">
+                        
+                                            </div>
+
+                                        <input type="hidden" name="security_hash" class="cm-no-hide-input" value="3fdac7206dfa816deadc9939a5f825f1" /></form>
+
+                </div>
+                    </div>
+        
+
+            
+        <div class="ty-scroller-list__item">
+                                                                
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                <div class="ty-grid-list__item ty-quick-view-button__wrapper ty-left">
+                                        <form action="http://localhost/shoprau/" method="post" name="product_form_820005773" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php" />
+<input type="hidden" name="product_data[5773][product_id]" value="5773" />
+
+
+                    <div class="ty-grid-list__image">
+                                                    
+
+                        
+
+
+        <a href="http://localhost/shoprau/nhom-sn-phm/c-qu/hanh-tay/">
+        <img class="ty-pict     cm-image" id="det_img_820005773"  src="http://localhost/shoprau/images/thumbnails/150/150/detailed/8/hanhtay.jpg" alt="" title=""  />
+
+    </a>
+
+
+                    </div>
+
+                    <div class="ty-grid-list__item-name">
+                        
+                                                <bdi>
+            <a href="http://localhost/shoprau/nhom-sn-phm/c-qu/hanh-tay/" class="product-title" title="Hành Tây" >Hành Tây</a>    
+
+</bdi>
+                    </div>
+
+                                            <div class="ty-grid-list__price ">
+                                                                    <span class="cm-reload-820005773" id="old_price_update_820005773">
+            
+                        
+
+        <!--old_price_update_820005773--></span>
+    
+                                                            <span class="cm-reload-820005773 ty-price-update" id="price_update_820005773">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_820005773"><bdi><span id="sec_discounted_price_820005773" class="ty-price-num">25,000</span>&nbsp;<span class="ty-price-num">VND</span></bdi></span>
+                            
+
+                        <!--price_update_820005773--></span>
+
+
+                                                            
+
+                                                            
+                        </div>
+                    
+                                                                <div class="grid-list__rating">
+                                
+    
+
+    
+
+
+                        </div>
+                    
+                    <div class="ty-grid-list__control">
+                        
+                                            </div>
+
+                                        <input type="hidden" name="security_hash" class="cm-no-hide-input" value="3fdac7206dfa816deadc9939a5f825f1" /></form>
+
+                </div>
+                    </div>
+        
+
+            
+        <div class="ty-scroller-list__item">
+                                                                
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                <div class="ty-grid-list__item ty-quick-view-button__wrapper ty-left">
+                                        <form action="http://localhost/shoprau/" method="post" name="product_form_820005772" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php" />
+<input type="hidden" name="product_data[5772][product_id]" value="5772" />
+
+
+                    <div class="ty-grid-list__image">
+                                                    
+
+                        
+
+
+        <a href="http://localhost/shoprau/nhom-sn-phm/c-qu/da-hu/">
+        <img class="ty-pict     cm-image" id="det_img_820005772"  src="http://localhost/shoprau/images/thumbnails/150/150/detailed/8/duahau.jpg" alt="" title=""  />
+
+    </a>
+
+
+                    </div>
+
+                    <div class="ty-grid-list__item-name">
+                        
+                                                <bdi>
+            <a href="http://localhost/shoprau/nhom-sn-phm/c-qu/da-hu/" class="product-title" title="Dưa hấu" >Dưa hấu</a>    
+
+</bdi>
+                    </div>
+
+                                            <div class="ty-grid-list__price ">
+                                                                    <span class="cm-reload-820005772" id="old_price_update_820005772">
+            
+                        
+
+        <!--old_price_update_820005772--></span>
+    
+                                                            <span class="cm-reload-820005772 ty-price-update" id="price_update_820005772">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_820005772"><bdi><span id="sec_discounted_price_820005772" class="ty-price-num">15,000</span>&nbsp;<span class="ty-price-num">VND</span></bdi></span>
+                            
+
+                        <!--price_update_820005772--></span>
+
+
+                                                            
+
+                                                            
+                        </div>
+                    
+                                                                <div class="grid-list__rating">
+                                
+    
+
+    
+
+
+                        </div>
+                    
+                    <div class="ty-grid-list__control">
+                        
+                                            </div>
+
+                                        <input type="hidden" name="security_hash" class="cm-no-hide-input" value="3fdac7206dfa816deadc9939a5f825f1" /></form>
+
+                </div>
+                    </div>
+        
+
+            
+        <div class="ty-scroller-list__item">
+                                                                
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                <div class="ty-grid-list__item ty-quick-view-button__wrapper ty-left">
+                                        <form action="http://localhost/shoprau/" method="post" name="product_form_820005771" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php" />
+<input type="hidden" name="product_data[5771][product_id]" value="5771" />
+
+
+                    <div class="ty-grid-list__image">
+                                                    
+
+                        
+
+
+        <a href="http://localhost/shoprau/nhom-sn-phm/c-qu/c-gng/">
+        <img class="ty-pict     cm-image" id="det_img_820005771"  src="http://localhost/shoprau/images/thumbnails/150/150/detailed/8/cu-gung-co-tac-dung-chua-benh-gi.jpg" alt="" title=""  />
+
+    </a>
+
+
+                    </div>
+
+                    <div class="ty-grid-list__item-name">
+                        
+                                                <bdi>
+            <a href="http://localhost/shoprau/nhom-sn-phm/c-qu/c-gng/" class="product-title" title="Củ gừng" >Củ gừng</a>    
+
+</bdi>
+                    </div>
+
+                                            <div class="ty-grid-list__price ">
+                                                                    <span class="cm-reload-820005771" id="old_price_update_820005771">
+            
+                        
+
+        <!--old_price_update_820005771--></span>
+    
+                                                            <span class="cm-reload-820005771 ty-price-update" id="price_update_820005771">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_820005771"><bdi><span id="sec_discounted_price_820005771" class="ty-price-num">5,000</span>&nbsp;<span class="ty-price-num">VND</span></bdi></span>
+                            
+
+                        <!--price_update_820005771--></span>
+
+
+                                                            
+
+                                                            
+                        </div>
+                    
+                                                                <div class="grid-list__rating">
+                                
+    
+
+    
+
+
+                        </div>
+                    
+                    <div class="ty-grid-list__control">
+                        
+                                            </div>
+
+                                        <input type="hidden" name="security_hash" class="cm-no-hide-input" value="3fdac7206dfa816deadc9939a5f825f1" /></form>
+
+                </div>
+                    </div>
+        
+
+            
+        <div class="ty-scroller-list__item">
+                                                                
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                <div class="ty-grid-list__item ty-quick-view-button__wrapper ty-left">
+                                        <form action="http://localhost/shoprau/" method="post" name="product_form_820005770" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php" />
+<input type="hidden" name="product_data[5770][product_id]" value="5770" />
+
+
+                    <div class="ty-grid-list__image">
+                                                    
+
+                        
+
+
+        <a href="http://localhost/shoprau/nhom-sn-phm/c-qu/ca-rot/">
+        <img class="ty-pict     cm-image" id="det_img_820005770"  src="http://localhost/shoprau/images/thumbnails/150/150/detailed/8/carot.jpg" alt="" title=""  />
+
+    </a>
+
+
+                    </div>
+
+                    <div class="ty-grid-list__item-name">
+                        
+                                                <bdi>
+            <a href="http://localhost/shoprau/nhom-sn-phm/c-qu/ca-rot/" class="product-title" title="Cà rót" >Cà rót</a>    
+
+</bdi>
+                    </div>
+
+                                            <div class="ty-grid-list__price ">
+                                                                    <span class="cm-reload-820005770" id="old_price_update_820005770">
+            
+                        
+
+        <!--old_price_update_820005770--></span>
+    
+                                                            <span class="cm-reload-820005770 ty-price-update" id="price_update_820005770">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_820005770"><bdi><span id="sec_discounted_price_820005770" class="ty-price-num">12,000</span>&nbsp;<span class="ty-price-num">VND</span></bdi></span>
+                            
+
+                        <!--price_update_820005770--></span>
+
+
+                                                            
+
+                                                            
+                        </div>
+                    
+                                                                <div class="grid-list__rating">
+                                
+    
+
+    
+
+
+                        </div>
+                    
+                    <div class="ty-grid-list__control">
+                        
+                                            </div>
+
+                                        <input type="hidden" name="security_hash" class="cm-no-hide-input" value="3fdac7206dfa816deadc9939a5f825f1" /></form>
+
+                </div>
+                    </div>
+        
+
+            
+        <div class="ty-scroller-list__item">
+                                                                
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                <div class="ty-grid-list__item ty-quick-view-button__wrapper ty-left">
+                                        <form action="http://localhost/shoprau/" method="post" name="product_form_820005769" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php" />
+<input type="hidden" name="product_data[5769][product_id]" value="5769" />
+
+
+                    <div class="ty-grid-list__image">
+                                                            <span class="ty-discount-label cm-reload-820005769" id="discount_label_update_820005769">
+            <span class="ty-discount-label__item" id="line_prc_discount_value_820005769"><span class="ty-discount-label__value" id="prc_discount_value_label_820005769">Giảm 9%</span></span>
+        <!--discount_label_update_820005769--></span>
+    
+
+                        
+
+
+        <a href="http://localhost/shoprau/nhom-sn-phm/c-qu/ca-chua/">
+        <img class="ty-pict     cm-image" id="det_img_820005769"  src="http://localhost/shoprau/images/thumbnails/150/150/detailed/8/nhungthucphamtuyetdoicamkykhongduocanlucdoi2.jpg" alt="" title=""  />
+
+    </a>
+
+
+                    </div>
+
+                    <div class="ty-grid-list__item-name">
+                        
+                                                <bdi>
+            <a href="http://localhost/shoprau/nhom-sn-phm/c-qu/ca-chua/" class="product-title" title="Cà chua" >Cà chua</a>    
+
+</bdi>
+                    </div>
+
+                                            <div class="ty-grid-list__price ">
+                                                                    <span class="cm-reload-820005769" id="old_price_update_820005769">
+            
+                            <span class="ty-list-price ty-nowrap" id="line_list_price_820005769"><span class="ty-strike"><bdi><span id="sec_list_price_820005769" class="ty-list-price ty-nowrap">11,000</span>&nbsp;<span class="ty-list-price ty-nowrap">VND</span></bdi></span></span>
+                        
+
+        <!--old_price_update_820005769--></span>
+    
+                                                            <span class="cm-reload-820005769 ty-price-update" id="price_update_820005769">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_820005769"><bdi><span id="sec_discounted_price_820005769" class="ty-price-num">10,000</span>&nbsp;<span class="ty-price-num">VND</span></bdi></span>
+                            
+
+                        <!--price_update_820005769--></span>
+
+
+                                                            
+
+                                                            
+                        </div>
+                    
+                                                                <div class="grid-list__rating">
+                                
+    
+
+    
+
+
+                        </div>
+                    
+                    <div class="ty-grid-list__control">
+                        
+                                            </div>
+
+                                        <input type="hidden" name="security_hash" class="cm-no-hide-input" value="3fdac7206dfa816deadc9939a5f825f1" /></form>
+
+                </div>
+                    </div>
+        
+
+            
+        <div class="ty-scroller-list__item">
+                                                                
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                <div class="ty-grid-list__item ty-quick-view-button__wrapper ty-left">
+                                        <form action="http://localhost/shoprau/" method="post" name="product_form_820005768" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php" />
+<input type="hidden" name="product_data[5768][product_id]" value="5768" />
+
+
+                    <div class="ty-grid-list__image">
+                                                    
+
+                        
+
+
+        <a href="http://localhost/shoprau/nhom-sn-phm/rau/bp-ci/">
+        <img class="ty-pict     cm-image" id="det_img_820005768"  src="http://localhost/shoprau/images/thumbnails/150/150/detailed/8/bapcai_o1iz-5u.jpg" alt="" title=""  />
+
+    </a>
+
+
+                    </div>
+
+                    <div class="ty-grid-list__item-name">
+                        
+                                                <bdi>
+            <a href="http://localhost/shoprau/nhom-sn-phm/rau/bp-ci/" class="product-title" title="Bắp cải" >Bắp cải</a>    
+
+</bdi>
+                    </div>
+
+                                            <div class="ty-grid-list__price ">
+                                                                    <span class="cm-reload-820005768" id="old_price_update_820005768">
+            
+                        
+
+        <!--old_price_update_820005768--></span>
+    
+                                                            <span class="cm-reload-820005768 ty-price-update" id="price_update_820005768">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_820005768"><bdi><span id="sec_discounted_price_820005768" class="ty-price-num">15,000</span>&nbsp;<span class="ty-price-num">VND</span></bdi></span>
+                            
+
+                        <!--price_update_820005768--></span>
+
+
+                                                            
+
+                                                            
+                        </div>
+                    
+                                                                <div class="grid-list__rating">
+                                
+    
+
+    
+
+
+                        </div>
+                    
+                    <div class="ty-grid-list__control">
+                        
+                                            </div>
+
+                                        <input type="hidden" name="security_hash" class="cm-no-hide-input" value="3fdac7206dfa816deadc9939a5f825f1" /></form>
+
+                </div>
+                    </div>
+        
+
+    </div>
+
+<!-- Inline script moved to the bottom of the page -->
+<!-- Inline script moved to the bottom of the page -->
+
+</div>
+    </div>
+";}s:6:"expiry";i:0;}

@@ -1,0 +1,196 @@
+a:2:{s:4:"data";a:1:{s:7:"content";s:8535:"    <div class="ty-mainbox-container clearfix">
+                    
+                <h1 class="ty-mainbox-title">
+                    
+                                            Nhà Cung Cấp
+                                        
+
+                </h1>
+            
+
+                <div class="ty-mainbox-body">
+
+
+    
+    
+
+    <div class="grid-list ty-grid-vendors">
+        <div class="ty-column5">
+    
+
+
+
+
+
+
+
+
+<div class="ty-grid-list__item"><div class="ty-grid-list__company-logo">            <a class="ty-company-image-wrapper" href="http://localhost/shoprau/acme-corporation/">            <img class="ty-pict  ty-company-image   cm-image" id="det_img_1"  src="http://localhost/shoprau/images/thumbnails/120/56/logos/1/acme_vfcz-z1.png" alt="Simtech" title="Simtech"  />
+
+        </a>    </div><div class="ty-grid-list__item-location"><a href="http://localhost/shoprau/acme-corporation/" class="company-location"><bdi>            Los Angeles
+    ,             US
+    </bdi></a></div><div class="grid-list__rating">    
+                
+            <span class="ty-nowrap ty-stars">
+                        <a href="http://localhost/shoprau/index.php?dispatch=companies.view&amp;company_id=1&amp;selected_section=discussion#discussion">
+            
+            <i class="ty-stars__icon ty-icon-star"></i>
+            <i class="ty-stars__icon ty-icon-star"></i>
+            <i class="ty-stars__icon ty-icon-star"></i>
+    
+            <i class="ty-stars__icon ty-icon-star-half"></i>
+    
+            <i class="ty-stars__icon ty-icon-star-empty"></i>
+    
+            </a>
+    </span>
+
+        
+            <a href="http://localhost/shoprau/index.php?dispatch=companies.view&amp;company_id=1&amp;selected_section=discussion#discussion" class="ty-discussion__review-quantity">5 đánh giá</a>    
+    
+
+</div><div class="ty-grid-list__total-products">            <a href="http://localhost/shoprau/acme-corporation/" class="ty-company-total-products">9  Sản phẩm</a>    </div>
+</div></div><div class="ty-column5">
+    
+
+
+
+
+
+
+
+
+<div class="ty-grid-list__item"><div class="ty-grid-list__company-logo">            <a class="ty-company-image-wrapper" href="http://localhost/shoprau/kwik-e-mart/">            <img class="ty-pict  ty-company-image   cm-image" id="det_img_2"  src="http://localhost/shoprau/images/thumbnails/120/35/logos/2/kwike_cllo-4x.png" alt="Kwik-E-Mart" title="Kwik-E-Mart"  />
+
+        </a>    </div><div class="ty-grid-list__item-location"><a href="http://localhost/shoprau/kwik-e-mart/" class="company-location"><bdi>            Los Angeles
+    ,             US
+    </bdi></a></div><div class="grid-list__rating">    
+                
+            <span class="ty-nowrap ty-stars">
+                        <a href="http://localhost/shoprau/index.php?dispatch=companies.view&amp;company_id=2&amp;selected_section=discussion#discussion">
+            
+            <i class="ty-stars__icon ty-icon-star"></i>
+            <i class="ty-stars__icon ty-icon-star"></i>
+            <i class="ty-stars__icon ty-icon-star"></i>
+    
+    
+            <i class="ty-stars__icon ty-icon-star-empty"></i>
+            <i class="ty-stars__icon ty-icon-star-empty"></i>
+    
+            </a>
+    </span>
+
+        
+            <a href="http://localhost/shoprau/index.php?dispatch=companies.view&amp;company_id=2&amp;selected_section=discussion#discussion" class="ty-discussion__review-quantity">5 đánh giá</a>    
+    
+
+</div><div class="ty-grid-list__total-products">            <a href="http://localhost/shoprau/kwik-e-mart/" class="ty-company-total-products">0  Sản phẩm</a>    </div>
+</div></div><div class="ty-column5">
+    
+
+
+
+
+
+
+
+
+<div class="ty-grid-list__item"><div class="ty-grid-list__company-logo">            <a class="ty-company-image-wrapper" href="http://localhost/shoprau/red-apple/">            <img class="ty-pict  ty-company-image   cm-image" id="det_img_3"  src="http://localhost/shoprau/images/thumbnails/120/108/logos/2/ra_logo.png" alt="Red Apple" title="Red Apple"  />
+
+        </a>    </div><div class="ty-grid-list__item-location"><a href="http://localhost/shoprau/red-apple/" class="company-location"><bdi>            Chicago
+    ,             US
+    </bdi></a></div><div class="grid-list__rating">    
+                
+            <span class="ty-nowrap ty-stars">
+                        <a href="http://localhost/shoprau/index.php?dispatch=companies.view&amp;company_id=3&amp;selected_section=discussion#discussion">
+            
+            <i class="ty-stars__icon ty-icon-star"></i>
+            <i class="ty-stars__icon ty-icon-star"></i>
+    
+            <i class="ty-stars__icon ty-icon-star-half"></i>
+    
+            <i class="ty-stars__icon ty-icon-star-empty"></i>
+            <i class="ty-stars__icon ty-icon-star-empty"></i>
+    
+            </a>
+    </span>
+
+        
+            <a href="http://localhost/shoprau/index.php?dispatch=companies.view&amp;company_id=3&amp;selected_section=discussion#discussion" class="ty-discussion__review-quantity">5 đánh giá</a>    
+    
+
+</div><div class="ty-grid-list__total-products">            <a href="http://localhost/shoprau/red-apple/" class="ty-company-total-products">0  Sản phẩm</a>    </div>
+</div></div><div class="ty-column5">
+    
+
+
+
+
+
+
+
+
+<div class="ty-grid-list__item"><div class="ty-grid-list__company-logo">            <a class="ty-company-image-wrapper" href="http://localhost/shoprau/stark-industries/">            <img class="ty-pict  ty-company-image   cm-image" id="det_img_4"  src="http://localhost/shoprau/images/thumbnails/120/47/logos/2/stark.png" alt="Stark Industries" title="Stark Industries"  />
+
+        </a>    </div><div class="ty-grid-list__item-location"><a href="http://localhost/shoprau/stark-industries/" class="company-location"><bdi>            Chicago
+    ,             US
+    </bdi></a></div><div class="grid-list__rating">    
+                
+            <span class="ty-nowrap ty-stars">
+                        <a href="http://localhost/shoprau/index.php?dispatch=companies.view&amp;company_id=4&amp;selected_section=discussion#discussion">
+            
+            <i class="ty-stars__icon ty-icon-star"></i>
+            <i class="ty-stars__icon ty-icon-star"></i>
+            <i class="ty-stars__icon ty-icon-star"></i>
+    
+            <i class="ty-stars__icon ty-icon-star-half"></i>
+    
+            <i class="ty-stars__icon ty-icon-star-empty"></i>
+    
+            </a>
+    </span>
+
+        
+            <a href="http://localhost/shoprau/index.php?dispatch=companies.view&amp;company_id=4&amp;selected_section=discussion#discussion" class="ty-discussion__review-quantity">5 đánh giá</a>    
+    
+
+</div><div class="ty-grid-list__total-products">            <a href="http://localhost/shoprau/stark-industries/" class="ty-company-total-products">0  Sản phẩm</a>    </div>
+</div></div><div class="ty-column5">
+    
+
+
+
+
+
+
+
+
+<div class="ty-grid-list__item"><div class="ty-grid-list__company-logo">            <a class="ty-company-image-wrapper" href="http://localhost/shoprau/umbrella-corporation/">            <img class="ty-pict  ty-company-image   cm-image" id="det_img_5"  src="http://localhost/shoprau/images/thumbnails/120/123/logos/2/umbrella.png" alt="Umbrella Corporation" title="Umbrella Corporation"  />
+
+        </a>    </div><div class="ty-grid-list__item-location"><a href="http://localhost/shoprau/umbrella-corporation/" class="company-location"><bdi>            San Diego
+    ,             US
+    </bdi></a></div><div class="grid-list__rating">    
+                
+            <span class="ty-nowrap ty-stars">
+                        <a href="http://localhost/shoprau/index.php?dispatch=companies.view&amp;company_id=5&amp;selected_section=discussion#discussion">
+            
+            <i class="ty-stars__icon ty-icon-star"></i>
+            <i class="ty-stars__icon ty-icon-star"></i>
+            <i class="ty-stars__icon ty-icon-star"></i>
+    
+            <i class="ty-stars__icon ty-icon-star-half"></i>
+    
+            <i class="ty-stars__icon ty-icon-star-empty"></i>
+    
+            </a>
+    </span>
+
+        
+            <a href="http://localhost/shoprau/index.php?dispatch=companies.view&amp;company_id=5&amp;selected_section=discussion#discussion" class="ty-discussion__review-quantity">6 đánh giá</a>    
+    
+
+</div><div class="ty-grid-list__total-products">            <a href="http://localhost/shoprau/umbrella-corporation/" class="ty-company-total-products">0  Sản phẩm</a>    </div>
+</div></div>    </div>
+</div>
+    </div>
+";}s:6:"expiry";i:0;}
