@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "c600397151f692de04ae15cf6803a146",
+    "content-hash": "f7bb75f17848d0e1cd67f73626cbf9a0",
     "packages": [
         {
             "name": "amazonwebservices/aws-sdk-for-php",
@@ -156,12 +156,12 @@
             },
             "type": "library",
             "autoload": {
-                "psr-0": {
-                    "HTMLPurifier": "library/"
-                },
                 "files": [
                     "library/HTMLPurifier.composer.php"
-                ]
+                ],
+                "psr-0": {
+                    "HTMLPurifier": "library/"
+                }
             },
             "notification-url": "https://packagist.org/downloads/",
             "license": [
@@ -229,6 +229,7 @@
                 "faker",
                 "fixtures"
             ],
+            "abandoned": true,
             "time": "2017-08-15T16:48:10+00:00"
         },
         {
@@ -281,12 +282,12 @@
             "version": "v0.7.1",
             "source": {
                 "type": "git",
-                "url": "https://github.com/avalanche123/Imagine.git",
+                "url": "https://github.com/php-imagine/Imagine.git",
                 "reference": "a9a702a946073cbca166718f1b02a1e72d742daa"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/avalanche123/Imagine/zipball/a9a702a946073cbca166718f1b02a1e72d742daa",
+                "url": "https://api.github.com/repos/php-imagine/Imagine/zipball/a9a702a946073cbca166718f1b02a1e72d742daa",
                 "reference": "a9a702a946073cbca166718f1b02a1e72d742daa",
                 "shasum": ""
             },
@@ -650,26 +651,28 @@
         },
         {
             "name": "smarty/smarty",
-            "version": "v3.1.21.1",
+            "version": "v4.1.0.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/cscart/smarty.git",
-                "reference": "5fc026372d47942c7f4af6c9492ed65a7bdd1eff"
+                "reference": "c4509ad52b49aeca1a4badd70cc850d1bac76628"
             },
             "require": {
-                "php": ">=5.2"
+                "php": "^7.1 || ^8.0"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "^8.5 || ^7.5",
+                "smarty/smarty-lexer": "^3.1"
             },
             "type": "library",
             "extra": {
                 "branch-alias": {
-                    "dev-master": "3.1.x-dev"
+                    "dev-master": "4.0.x-dev"
                 }
             },
             "autoload": {
                 "classmap": [
-                    "libs/Smarty.class.php",
-                    "libs/SmartyBC.class.php",
-                    "libs/sysplugins/smarty_security.php"
+                    "libs/"
                 ]
             },
             "license": [
@@ -687,19 +690,22 @@
                 {
                     "name": "Rodney Rehm",
                     "email": "rodney.rehm@medialize.de"
+                },
+                {
+                    "name": "Simon Wisselink",
+                    "homepage": "https://www.iwink.nl/"
                 }
             ],
             "description": "Smarty - the compiling PHP template engine",
-            "homepage": "http://www.smarty.net",
+            "homepage": "https://smarty-php.github.io/smarty/",
             "keywords": [
                 "templating"
             ],
             "support": {
-                "irc": "irc://irc.freenode.org/smarty",
-                "issues": "http://code.google.com/p/smarty-php/issues/list",
-                "forum": "http://www.smarty.net/forums/"
+                "issues": "https://github.com/smarty-php/smarty/issues",
+                "forum": "https://github.com/smarty-php/smarty/discussions"
             },
-            "time": "2018-01-10T10:37:22+00:00"
+            "time": "2022-03-17T08:06:47+00:00"
         },
         {
             "name": "symfony/config",
@@ -1000,12 +1006,12 @@
                 }
             },
             "autoload": {
-                "psr-4": {
-                    "Symfony\\Polyfill\\Php70\\": ""
-                },
                 "files": [
                     "bootstrap.php"
                 ],
+                "psr-4": {
+                    "Symfony\\Polyfill\\Php70\\": ""
+                },
                 "classmap": [
                     "Resources/stubs"
                 ]
@@ -1227,6 +1233,7 @@
                 "i18n",
                 "text"
             ],
+            "abandoned": true,
             "time": "2015-08-22T16:38:35+00:00"
         },
         {
@@ -1650,6 +1657,7 @@
                 "testing",
                 "xunit"
             ],
+            "abandoned": true,
             "time": "2016-12-02T14:39:14+00:00"
         },
         {
@@ -1899,6 +1907,7 @@
             "keywords": [
                 "tokenizer"
             ],
+            "abandoned": true,
             "time": "2017-08-03T14:17:41+00:00"
         },
         {
@@ -2040,6 +2049,7 @@
                 "mock",
                 "xunit"
             ],
+            "abandoned": true,
             "time": "2017-06-30T09:13:00+00:00"
         },
         {
@@ -2621,12 +2631,12 @@
             "version": "1.2.0",
             "source": {
                 "type": "git",
-                "url": "https://github.com/webmozart/assert.git",
+                "url": "https://github.com/webmozarts/assert.git",
                 "reference": "2db61e59ff05fe5126d152bd0655c9ea113e550f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/webmozart/assert/zipball/2db61e59ff05fe5126d152bd0655c9ea113e550f",
+                "url": "https://api.github.com/repos/webmozarts/assert/zipball/2db61e59ff05fe5126d152bd0655c9ea113e550f",
                 "reference": "2db61e59ff05fe5126d152bd0655c9ea113e550f",
                 "shasum": ""
             },
@@ -2716,6 +2726,7 @@
                 "phpcs",
                 "standards"
             ],
+            "abandoned": "phpcompatibility/php-compatibility",
             "time": "2017-12-27T21:58:38+00:00"
         }
     ],
@@ -2727,5 +2738,6 @@
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": [],
-    "platform-dev": []
+    "platform-dev": [],
+    "plugin-api-version": "1.1.0"
 }
